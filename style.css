@@ -826,7 +826,7 @@ body {
     gap: 25px;
     /* border: 2px solid black; */
     animation-name: cards;
-    animation-duration: 5s;
+    animation-duration: 10s;
     animation-timing-function: linear;
     animation-iteration-count: infinite;
   }
